@@ -35,6 +35,8 @@
   
 </div>
 
+
+
 <h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
 
 Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/learn-anything-search) or create a study group for any branch in the mind map and learn together. 
@@ -44,6 +46,10 @@ Both this project and the search engine [is in active development](https://learn
 You can also read though our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
 
 We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
+
+<h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> and <a href="https://github.com/learn-anything/courses">Courses 📝</a></h2>
+
+There is also a [list of books](https://github.com/learn-anything/books) and [free courses](https://github.com/learn-anything/courses) you can take a look at and help improve. 💚
 
 
 <h1 align="center">Contributing 👬 </a></h1>
@@ -71,34 +77,16 @@ We are currently attempting to move [our current renderer for mind maps](https:/
 
 If you want to help, that's great. Join our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas and work on it together. 💚
 
-<h2 align="center"><a href="https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2"> More Mind Maps 🗺️ </a></h2>
-
-In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to more interesting mind maps.
-
-It contains :
-
-- [all the interesting books you can read](http://nikitavoloboev.xyz/learn-anything/research/books/) (as [mind map](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ#177.2,110.3,2))
-	- where if a book is free, a link will be provided
-- [interesting courses one can take](http://nikitavoloboev.xyz/learn-anything/research/courses/) (as [mind map](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ))
-- [research papers on various topics](http://nikitavoloboev.xyz/learn-anything/research/research-papers/) (as [mind map](https://my.mindnode.com/Cny5WMjy56ay4pDopou6spjQiiAbzusp9XuW5zpT#784.0,-182.2,2))
-- [interesting humans who ever lived](http://nikitavoloboev.xyz/learn-anything/research/humans/) (as [mind map](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc#3835.3,-431.1,2))
-- [interesting images](http://nikitavoloboev.xyz/learn-anything/research/images/) (as [mind map](https://github.com/nikitavoloboev/learn-anything/tree/master/research/images#images-))
-- [interesting websites](http://nikitavoloboev.xyz/learn-anything/research/websites/) (as [mind map](https://my.mindnode.com/BxoJyqgsfvB2J9rrpm1zwzjuKxPGUrYn6YDpSGbH))
-- and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
-
-Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/learn-anything-search), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-learn-anything) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao). 
-
-Each mind map will also have [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that you can use to consolidate this knowledge.
-
-This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
-
 <h2 align="center"> Future 🚀 </h2>
 
 We [plan to ease the contributing process](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
+Each mind map will also have [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that you can use to consolidate this knowledge.
+
 The focus of the search engine is to search through an [open index of knowledge that all can see and explore and contribute to](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box where everything is hidden behind a search bar, if you want to explore, [you can](https://learn-anything.xyz/learn_anything). 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
+
 
 <h2 align="center"><a href="https://www.patreon.com/nikitavoloboev">Keep this project going 🎊</a></h2>
 
@@ -107,6 +95,8 @@ This project is still in its early stages but I am certain as it gets traction a
 I also don't want to put any advertisements or any 'sponsored' content in there that I don't think brings value. I want these study plans to present the most efficient ways one can learn any subject one may want to learn in a guided way.
 
 If you do love using these mind maps, I have started a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. There are also some really cool rewards that come with your support. 💚
+
+Fun fact. 💡 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
 
 <h2 align="center"> Stay in touch 📮 </h2>
 
