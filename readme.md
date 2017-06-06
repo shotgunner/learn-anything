@@ -36,7 +36,6 @@
 </div>
 
 
-
 <h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
 
 Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/learn-anything-search) or create a study group for any branch in the mind map and learn together. 
@@ -49,7 +48,7 @@ We use [Twitter](https://twitter.com/learnanything_) to announce new things like
 
 <h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a> + <a href="https://github.com/learn-anything/humans">Humans 🌍</a> + <a href="https://github.com/learn-anything/images">Images 🎨</a></h2>
 
-There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses), [research papers](https://github.com/learn-anything/research-papers) and [user curated flashcards](https://github.com/learn-anything/flashcards) you can take a look at and help improve. 💚
+There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses), [research papers](https://github.com/learn-anything/research-papers), [user curated flashcards](https://github.com/learn-anything/flashcards), [interesting humans](https://github.com/learn-anything/humans) and [images](https://github.com/learn-anything/humans) you can take a look at and help improve. 💚
 
 
 <h1 align="center">Contributing 👬 </a></h1>
@@ -67,7 +66,7 @@ Take some time to explore [the mind map](https://learn-anything.xyz/learn_anythi
 
 As mentioned above, there is a [button with a 🦄](http://i.imgur.com/Qpi9xZK.png) present in all of the mind maps which will link to a GitHub issue where you can propose to improve the mind map.
 
-Just say what you wish was added or removed or changed and why. The content has to be of value and free content is preferred. If you wish to extend them mind map further, you can also say that in the issue.
+Just say what you wish was added or removed or changed and why. The content has to be of value and free content is preferred. If you wish to extend the mind map further, you can also say that in the issue.
 
 If you want to propose a completely new mind map or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/learn-anything/issues/new) and say what you wish was added.
 
@@ -81,7 +80,7 @@ If you want to help, that's great. Join our [slack group](https://knowledge-map.
 
 We [plan to ease the contributing process](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
-Each mind map will also have [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that you can use to consolidate this knowledge.
+Each mind map will also have [flash cards](https://github.com/learn-anything/flashcards) that you can use to consolidate this knowledge.
 
 The focus of the search engine is to search through an [open index of knowledge that all can see and explore and contribute to](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box where everything is hidden behind a search bar, if you want to explore, [you can](https://learn-anything.xyz/learn_anything). 
 
