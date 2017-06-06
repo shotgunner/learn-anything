@@ -47,9 +47,9 @@ You can also read though our [development blog](https://learn-anything.github.io
 
 We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
-<h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> and <a href="https://github.com/learn-anything/courses">Courses 📝</a> and <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a></h2>
+<h2 align="center"><a href="https://github.com/learn-anything/books">Books 📚</a> + <a href="https://github.com/learn-anything/courses">Courses 📝</a> + <a href="https://github.com/learn-anything/research-papers">Research Papers 📄</a> + <a href="https://github.com/learn-anything/flashcards">Flashcards 🎴</a></h2>
 
-There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses) and [research papers](https://github.com/learn-anything/research-papers) you can take a look at and help improve. 💚
+There is also a [list of books](https://github.com/learn-anything/books), [free courses](https://github.com/learn-anything/courses), [research papers](https://github.com/learn-anything/research-papers) and [user curated flashcards](https://github.com/learn-anything/flashcards) you can take a look at and help improve. 💚
 
 
 <h1 align="center">Contributing 👬 </a></h1>
