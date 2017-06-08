@@ -70,6 +70,8 @@ Just say what you wish was added or removed or changed and why. The content has 
 
 If you want to propose a completely new mind map or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/learn-anything/issues/new) and say what you wish was added.
 
+Also if there is a free version of the book available, please say it. In a perfect world all 📕 will be 📖.
+
 ## Help with developing the search engine for mind maps on the web 🔎 
 
 We are currently attempting to move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
