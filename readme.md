@@ -21,19 +21,22 @@
   </a>
   <br>
   <br>
-<p>The image above is an <a href="https://learn-anything.xyz/learn_anything"> interactive mind map that can be viewed and explored</a> as well as <a href="https://learn-anything.xyz/">searched through</a>. 🔎</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4.gif" alt="img" width="600"></p>
+  </div>
   
-<p>When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.</p>
+  <h2 align="center"><a href="http://quick.as/evd2h5qqo">Demonstration ☘</a></h2>
+  <div>
+  <p align="center"><img src="https://raw.githubusercontent.com/learn-anything/img/master/i_want_to_learn.mp4.gif" alt="img" width="600"></p>
+  </div>
   
-<p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just <a href="http://i.imgur.com/Qpi9xZK.png">click on the 🦄</a> and say what you wish was added or changed.</p>
-
-<p>The search engine is <a href="https://github.com/nikitavoloboev/learn-anything-search"> fully open source </a> and you can help improve it. 💙</p>
-
-<p>The <a href="https://learn-anything.github.io/future/2017/05/27/future-of-learning.html">main goal of this project</a> is to expose human knowledge in a visual and structured way to accelerate learning. 🚀</p>
+The image above is an [interactive mind map that can be viewed and explored](https://learn-anything.xyz/learn_anything)  as well as [searched through](https://learn-anything.xyz). 🔎
   
-</div>
+When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
+  
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just [click on the 🦄](http://i.imgur.com/Qpi9xZK.png) and say what you wish was added or changed.
+
+The search engine is [fully open source](https://github.com/learn-anything/search) and you can help improve it. 💙</p>
+
+The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to expose human knowledge in a visual and structured way to accelerate learning. 🚀
 
 
 <h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
